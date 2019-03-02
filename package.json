@@ -1,0 +1,17 @@
+{
+  "name": "sleyp",
+  "version": "1.0.1",
+  "description": "A function to sleep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sleep",
+    "async",
+    "await",
+    "promise"
+  ],
+  "author": "Ian Fabs",
+  "license": "MIT"
+}
